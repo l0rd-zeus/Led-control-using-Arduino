@@ -58,9 +58,17 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![image](https://github.com/user-attachments/assets/1dc67e29-c820-4150-a5a7-806dda615ee2)
+
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/f8d3ed47-f40b-4388-a9cd-bdaeb7395c46)
+
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/d332740b-0832-4035-9642-5625497e6bfb)
+
 
 ## RESULT
+The LED control system using Arduino and push button was successfully implemented and simulated in Proteus.
+
