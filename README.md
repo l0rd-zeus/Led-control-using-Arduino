@@ -62,7 +62,20 @@ Weighing Machines </br>
 
 
 ## PROGRAM
-![image](https://github.com/user-attachments/assets/f8d3ed47-f40b-4388-a9cd-bdaeb7395c46)
+```
+int relayPin=6; 
+#define interval 2000 
+void setup() { 
+pinMode(relayPin, OUTPUT); 
+} 
+void loop() 
+{ 
+digitalWrite(relayPin, HIGH); 
+delay(interval); 
+digitalWrite(relayPin, LOW); 
+delay(interval); 
+}
+```
 
 
 ## OUTPUT
